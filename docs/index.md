@@ -5,7 +5,7 @@ Integrating this pipeline improved the ICBHI classification score by 4.24% on IC
 
 We recommend using headphones for this section.
 
-| Target                                                                    |Noisy                                                                      |  MANNER  | CMGAN|
+<!-- | Target                                                                    |Noisy                                                                      |  MANNER  | CMGAN|
 |---------------------------------------------------------------------------|---------------------------------------------------------------------------|----------|------|
 | ![](samples/Crackle/C0_clean.png)                                         | ![](samples/Crackle/C0_noisy.png)                                         | ![](samples/Crackle/C0_MANNER.png)                                         |![](samples/Crackle/C0_CMGAN.png)                                         |
 | <audio src="samples/Crackle/C0_clean.wav" controls="" preload=""></audio> | <audio src="samples/Crackle/C0_noisy.wav" controls="" preload=""></audio> |<audio src="samples/Crackle/C0_MANNER.wav" controls="" preload=""></audio>|<audio src="samples/Crackle/C0_CMGAN.wav" controls="" preload=""></audio>|
@@ -16,30 +16,32 @@ We recommend using headphones for this section.
 | ![](samples/Crackle/C3_clean.png)                                         | ![](samples/Crackle/C3_noisy.png)                                         | ![](samples/Crackle/C3_MANNER.png)                                         |![](samples/Crackle/C3_CMGAN.png)                                         |
 | <audio src="samples/Crackle/C3_clean.wav" controls="" preload=""></audio> | <audio src="samples/Crackle/C3_noisy.wav" controls="" preload=""></audio> |<audio src="samples/Crackle/C3_MANNER.wav" controls="" preload=""></audio>|<audio src="samples/Crackle/C3_CMGAN.wav" controls="" preload=""></audio>|
 | ![](samples/Crackle/C4_clean.png)                                         | ![](samples/Crackle/C4_noisy.png)                                         | ![](samples/Crackle/C4_MANNER.png)                                         |![](samples/Crackle/C4_CMGAN.png)                                         |
-| <audio src="samples/Crackle/C4_clean.wav" controls="" preload=""></audio> | <audio src="samples/Crackle/C4_noisy.wav" controls="" preload=""></audio> |<audio src="samples/Crackle/C4_MANNER.wav" controls="" preload=""></audio>|<audio src="samples/Crackle/C4_CMGAN.wav" controls="" preload=""></audio>|
+| <audio src="samples/Crackle/C4_clean.wav" controls="" preload=""></audio> | <audio src="samples/Crackle/C4_noisy.wav" controls="" preload=""></audio> |<audio src="samples/Crackle/C4_MANNER.wav" controls="" preload=""></audio>|<audio src="samples/Crackle/C4_CMGAN.wav" controls="" preload=""></audio>| -->
 
 
 ## Crackle Samples:
 
 We recommend using headphones for this section.
 
-| Target                                                                    |Noisy                                                                      |  MANNER  | CMGAN|
-|---------------------------------------------------------------------------|---------------------------------------------------------------------------|----------|------|
-| ![](samples/Crackle/C0_clean.png)                                         | ![](samples/Crackle/C0_noisy.png)                                         | ![](samples/Crackle/C0_MANNER.png)                                         |![](samples/Crackle/C0_CMGAN.png)                                         |
+|          | Target                                                                    |Noisy                                                                      |  MANNER  | CMGAN|
+|----------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|----------|------|
+| Sample 0 | ![](samples/Crackle/C0_clean.png)                                         | ![](samples/Crackle/C0_noisy.png)                                         | ![](samples/Crackle/C0_MANNER.png)                                         |![](samples/Crackle/C0_CMGAN.png)                                         |
 | <audio src="samples/Crackle/C0_clean.wav" controls="" preload=""></audio> | <audio src="samples/Crackle/C0_noisy.wav" controls="" preload=""></audio> |<audio src="samples/Crackle/C0_MANNER.wav" controls="" preload=""></audio>|<audio src="samples/Crackle/C0_CMGAN.wav" controls="" preload=""></audio>|
-| ![](samples/Crackle/C1_clean.png)                                         | ![](samples/Crackle/C1_noisy.png)                                         | ![](samples/Crackle/C1_MANNER.png)                                         |![](samples/Crackle/C1_CMGAN.png)                                         |
+| Sample 1 | ![](samples/Crackle/C1_clean.png)                                         | ![](samples/Crackle/C1_noisy.png)                                         | ![](samples/Crackle/C1_MANNER.png)                                         |![](samples/Crackle/C1_CMGAN.png)                                         |
 | <audio src="samples/Crackle/C1_clean.wav" controls="" preload=""></audio> | <audio src="samples/Crackle/C1_noisy.wav" controls="" preload=""></audio> |<audio src="samples/Crackle/C1_MANNER.wav" controls="" preload=""></audio>|<audio src="samples/Crackle/C1_CMGAN.wav" controls="" preload=""></audio>|
-| ![](samples/Crackle/C2_clean.png)                                         | ![](samples/Crackle/C2_noisy.png)                                         | ![](samples/Crackle/C2_MANNER.png)                                         |![](samples/Crackle/C2_CMGAN.png)                                         |
+| Sample 2 | ![](samples/Crackle/C2_clean.png)                                         | ![](samples/Crackle/C2_noisy.png)                                         | ![](samples/Crackle/C2_MANNER.png)                                         |![](samples/Crackle/C2_CMGAN.png)                                         |
 | <audio src="samples/Crackle/C2_clean.wav" controls="" preload=""></audio> | <audio src="samples/Crackle/C2_noisy.wav" controls="" preload=""></audio> |<audio src="samples/Crackle/C2_MANNER.wav" controls="" preload=""></audio>|<audio src="samples/Crackle/C2_CMGAN.wav" controls="" preload=""></audio>|
-| ![](samples/Crackle/C3_clean.png)                                         | ![](samples/Crackle/C3_noisy.png)                                         | ![](samples/Crackle/C3_MANNER.png)                                         |![](samples/Crackle/C3_CMGAN.png)                                         |
+| Sample 3 | ![](samples/Crackle/C3_clean.png)                                         | ![](samples/Crackle/C3_noisy.png)                                         | ![](samples/Crackle/C3_MANNER.png)                                         |![](samples/Crackle/C3_CMGAN.png)                                         |
 | <audio src="samples/Crackle/C3_clean.wav" controls="" preload=""></audio> | <audio src="samples/Crackle/C3_noisy.wav" controls="" preload=""></audio> |<audio src="samples/Crackle/C3_MANNER.wav" controls="" preload=""></audio>|<audio src="samples/Crackle/C3_CMGAN.wav" controls="" preload=""></audio>|
-| ![](samples/Crackle/C4_clean.png)                                         | ![](samples/Crackle/C4_noisy.png)                                         | ![](samples/Crackle/C4_MANNER.png)                                         |![](samples/Crackle/C4_CMGAN.png)                                         |
+| Sample 4 | ![](samples/Crackle/C4_clean.png)                                         | ![](samples/Crackle/C4_noisy.png)                                         | ![](samples/Crackle/C4_MANNER.png)                                         |![](samples/Crackle/C4_CMGAN.png)                                         |
 | <audio src="samples/Crackle/C4_clean.wav" controls="" preload=""></audio> | <audio src="samples/Crackle/C4_noisy.wav" controls="" preload=""></audio> |<audio src="samples/Crackle/C4_MANNER.wav" controls="" preload=""></audio>|<audio src="samples/Crackle/C4_CMGAN.wav" controls="" preload=""></audio>|
+
+
 ## Wheeze Samples: 
 
 We recommend using headphones for this section.
 
-| Target                                                                    |Noisy                                                                      |  MANNER  | CMGAN|
+<!-- | Target                                                                    |Noisy                                                                      |  MANNER  | CMGAN|
 |---------------------------------------------------------------------------|---------------------------------------------------------------------------|----------|------|
 | ![](samples/Crackle/C0_clean.png)                                         | ![](samples/Crackle/C0_noisy.png)                                         | ![](samples/Crackle/C0_MANNER.png)                                         |![](samples/Crackle/C0_CMGAN.png)                                         |
 | <audio src="samples/Crackle/C0_clean.wav" controls="" preload=""></audio> | <audio src="samples/Crackle/C0_noisy.wav" controls="" preload=""></audio> |<audio src="samples/Crackle/C0_MANNER.wav" controls="" preload=""></audio>|<audio src="samples/Crackle/C0_CMGAN.wav" controls="" preload=""></audio>|
@@ -50,4 +52,4 @@ We recommend using headphones for this section.
 | ![](samples/Crackle/C3_clean.png)                                         | ![](samples/Crackle/C3_noisy.png)                                         | ![](samples/Crackle/C3_MANNER.png)                                         |![](samples/Crackle/C3_CMGAN.png)                                         |
 | <audio src="samples/Crackle/C3_clean.wav" controls="" preload=""></audio> | <audio src="samples/Crackle/C3_noisy.wav" controls="" preload=""></audio> |<audio src="samples/Crackle/C3_MANNER.wav" controls="" preload=""></audio>|<audio src="samples/Crackle/C3_CMGAN.wav" controls="" preload=""></audio>|
 | ![](samples/Crackle/C4_clean.png)                                         | ![](samples/Crackle/C4_noisy.png)                                         | ![](samples/Crackle/C4_MANNER.png)                                         |![](samples/Crackle/C4_CMGAN.png)                                         |
-| <audio src="samples/Crackle/C4_clean.wav" controls="" preload=""></audio> | <audio src="samples/Crackle/C4_noisy.wav" controls="" preload=""></audio> |<audio src="samples/Crackle/C4_MANNER.wav" controls="" preload=""></audio>|<audio src="samples/Crackle/C4_CMGAN.wav" controls="" preload=""></audio>|                                | ![](samples/x2-nuwave2+/p361_002_mic1.png)                                         |         |      |
+| <audio src="samples/Crackle/C4_clean.wav" controls="" preload=""></audio> | <audio src="samples/Crackle/C4_noisy.wav" controls="" preload=""></audio> |<audio src="samples/Crackle/C4_MANNER.wav" controls="" preload=""></audio>|<audio src="samples/Crackle/C4_CMGAN.wav" controls="" preload=""></audio>|                                | ![](samples/x2-nuwave2+/p361_002_mic1.png)                                         |         |      | -->
