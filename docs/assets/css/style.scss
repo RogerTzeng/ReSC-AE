@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+main.main-content {
+    max-width: 1500px;
+    margin: auto;
+  }
 
 audio {
     width: 300px;
