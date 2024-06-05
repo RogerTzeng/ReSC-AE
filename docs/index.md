@@ -8,20 +8,11 @@ We recommend using headphones for this section.
 
 |          | Target    | Noisy | Wave-U-Net | PHASEN |  MANNER  | CMGAN |
 |----------|-----------|-------|------------|--------|----------|-------|
-| 0| ![](samples/Normal/N0_clean.png)                                 | ![](samples/Normal/spectrogram/N0_noisy.png)                                         | ![]
-(samples/Normal/spectrogram/N0_WaveUNet.png)                                      | ![]
-(samples/Normal/spectrogram/N0_PHASEN.png)                                        | ![]
-(samples/Normal/spectrogram/N0_MANNER.png)                                        | ![](samples/Normal/spectrogram/N0_CMGAN.png)                                         |
+| 0| ![](samples/Normal/N0_clean.png)                                             | ![](samples/Normal/spectrogram/N0_noisy.png)                                         | ![](samples/Normal/spectrogram/N0_WaveUNet.png)                                      | ![](samples/Normal/spectrogram/N0_PHASEN.png)                                        | ![](samples/Normal/spectrogram/N0_MANNER.png)                                        | ![](samples/Normal/spectrogram/N0_CMGAN.png)                                         |
 |    | <audio src="samples/Normal/N0_clean.wav" controls="" preload=""></audio> | <audio src="samples/Normal/N0_noisy.wav" controls="" preload=""></audio> |<audio src="samples/Normal/N0_WaveUNet.wav" controls="" preload=""></audio>|<audio src="samples/Normal/N0_PHASEN.wav" controls="" preload=""></audio>|<audio src="samples/Normal/N0_MANNER.wav" controls="" preload=""></audio>|<audio src="samples/Normal/N0_CMGAN.wav" controls="" preload=""></audio>|
-| 1| ![](samples/Normal/N1_clean.png)                                 | ![](samples/Normal/spectrogram/N1_noisy.png)                                         | ![]
-(samples/Normal/spectrogram/N1_WaveUNet.png)                                      | ![]
-(samples/Normal/spectrogram/N1_PHASEN.png)                                        | ![]
-(samples/Normal/spectrogram/N1_MANNER.png)                                        | ![](samples/Normal/spectrogram/N1_CMGAN.png)                                         |
+| 1| ![](samples/Normal/N1_clean.png)                                 | ![](samples/Normal/spectrogram/N1_noisy.png)                                         | ![](samples/Normal/spectrogram/N1_WaveUNet.png)                                      | ![](samples/Normal/spectrogram/N1_PHASEN.png)                                        | ![](samples/Normal/spectrogram/N1_MANNER.png)                                        | ![](samples/Normal/spectrogram/N1_CMGAN.png)                                         |
 |    | <audio src="samples/Normal/N1_clean.wav" controls="" preload=""></audio> | <audio src="samples/Normal/N1_noisy.wav" controls="" preload=""></audio> |<audio src="samples/Normal/N1_WaveUNet.wav" controls="" preload=""></audio>|<audio src="samples/Normal/N1_PHASEN.wav" controls="" preload=""></audio>|<audio src="samples/Normal/N1_MANNER.wav" controls="" preload=""></audio>|<audio src="samples/Normal/N1_CMGAN.wav" controls="" preload=""></audio>|
-| 2| ![](samples/Normal/N2_clean.png)                                 | ![](samples/Normal/spectrogram/N2_noisy.png)                                         | ![]
-(samples/Normal/spectrogram/N2_WaveUNet.png)                                      | ![]
-(samples/Normal/spectrogram/N2_PHASEN.png)                                        | ![]
-(samples/Normal/spectrogram/N2_MANNER.png)                                        | ![](samples/Normal/spectrogram/N2_CMGAN.png)                                         |
+| 2| ![](samples/Normal/N2_clean.png)                                 | ![](samples/Normal/spectrogram/N2_noisy.png)                                         | ![](samples/Normal/spectrogram/N2_WaveUNet.png)                                      | ![](samples/Normal/spectrogram/N2_PHASEN.png)                                        | ![](samples/Normal/spectrogram/N2_MANNER.png)                                        | ![](samples/Normal/spectrogram/N2_CMGAN.png)                                         |
 |    | <audio src="samples/Normal/N2_clean.wav" controls="" preload=""></audio> | <audio src="samples/Normal/N2_noisy.wav" controls="" preload=""></audio> |<audio src="samples/Normal/N2_WaveUNet.wav" controls="" preload=""></audio>|<audio src="samples/Normal/N2_PHASEN.wav" controls="" preload=""></audio>|<audio src="samples/Normal/N2_MANNER.wav" controls="" preload=""></audio>|<audio src="samples/Normal/N2_CMGAN.wav" controls="" preload=""></audio>|
 
 
