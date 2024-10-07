@@ -1,6 +1,15 @@
-Deep learning techniques have shown promising results in the automatic classification of respiratory sounds. However, accurately distinguishing these sounds in real-world noisy conditions poses challenges for clinical deployment. Additionally, predicting signals with only background noise could undermine user trust in the system. In this study, we propose an audio enhancement (AE) pipeline as a pre-processing step before respiratory sound classification, aiming to improve performance in noisy environments.
-Multiple experiments were conducted using different audio enhancement model structures, demonstrating improved classification performance compared to the baseline method of noise injection data augmentation. Specifically, the integration of the AE pipeline resulted in a 2.59\% increase in the ICBHI classification score on the ICBHI respiratory sound dataset and a 2.51\% improvement on our recently collected Formosa Archive of Breath Sounds (FABS) in multi-class noisy scenarios.
-Furthermore, a physician validation study assessed the clinical utility of our system. Quantitative analysis revealed enhancements in efficiency, diagnostic confidence, and trust during model-assisted diagnosis with our system compared to raw noisy recordings. Workflows integrating enhanced audio led to an 11.61\% increase in diagnostic sensitivity and facilitated high-confidence diagnoses. Our findings demonstrate that incorporating an audio enhancement algorithm significantly enhances robustness and clinical utility.
+## Abstract
+### Background: 
+Deep learning techniques have shown promising results in the automatic classification of respiratory sounds. However, accurately distinguishing these sounds in real-world noisy conditions poses challenges for clinical deployment. Additionally, predicting signals with only background noise could undermine user trust in the system. 
+### Objective: 
+This paper aims to investigate the feasibility and effectiveness of incorporating a deep learning-based audio enhancement preprocessing step into automatic respiratory sound classification systems to improve robustness and clinical applicability.
+### Methods: 
+Multiple experiments were conducted using different audio enhancement model structures and classification models. The classification performance was compared to the baseline method of noise injection data augmentation. Experiments were performed on two datasets: the ICBHI respiratory sound dataset, which includes 5.5 hours of recordings, and the Formosa Archive of Breath Sounds (FABS) dataset, comprising 14.6 hours of recordings. Additionally, a physician validation study was conducted by 7 senior physicians to assess the clinical utility of the system.
+### Results: 
+The integration of the audio enhancement pipeline resulted in a 21.88% increase in the ICBHI classification score on the ICBHI dataset and a 4.10% improvement on the FABS dataset in multi-class noisy scenarios. Quantitative analysis from the physician validation study revealed improvements in efficiency, diagnostic confidence, and trust during model-assisted diagnosis, with workflows integrating enhanced audio leading to an 11.61% increase in diagnostic sensitivity and facilitating high-confidence diagnoses.
+### Conclusions: 
+Incorporating an audio enhancement algorithm significantly enhances the robustness and clinical utility of automatic respiratory sound classification systems, improving performance in noisy environments and fostering greater trust among medical professionals.
+
 
 ## Normal: 
 
