@@ -1,6 +1,6 @@
 This is the official demo website for "Improving the Robustness and Clinical Applicability of Automatic Respiratory Sound Classification Using Deep Learning–Based Audio Enhancement: Algorithm Development and Validation," in JMIR AI.
 
-Our paper: https://ai.jmir.org/2025/1/e67239/
+Our paper: [Paper Link] https://ai.jmir.org/2025/1/e67239/
 
 ### Abstract
 #### Background: 
@@ -18,7 +18,8 @@ The integration of the audio enhancement module resulted in a 21.88% increase wi
 #### Conclusions: 
 Incorporating an audio enhancement algorithm significantly enhances the robustness and clinical utility of automatic respiratory sound classification systems, improving performance in noisy environments and fostering greater trust among medical professionals.
 
-## Normal: 
+### Demo
+#### Normal: 
 
 We recommend using headphones for this section.
 
@@ -35,7 +36,7 @@ We recommend using headphones for this section.
 |    |  <audio src="samples/Normal/N2_noisy.wav" controls="" preload=""></audio> |<audio src="samples/Normal/N2_WaveUNet.wav" controls="" preload=""></audio>|<audio src="samples/Normal/N2_PHASEN.wav" controls="" preload=""></audio>|<audio src="samples/Normal/N2_MANNER.wav" controls="" preload=""></audio>|<audio src="samples/Normal/N2_CMGAN.wav" controls="" preload=""></audio>|<audio src="samples/Normal/N2_clean.wav" controls="" preload=""></audio> |
 
 
-## Crackles:
+#### Crackles:
 
 We recommend using headphones for this section.
 
@@ -52,7 +53,7 @@ We recommend using headphones for this section.
 |    |<audio src="samples/Crackle/C2_noisy.wav" controls="" preload=""></audio> |<audio src="samples/Crackle/C2_WaveUNet.wav" controls="" preload=""></audio>|<audio src="samples/Crackle/C2_PHASEN.wav" controls="" preload=""></audio>|<audio src="samples/Crackle/C2_MANNER.wav" controls="" preload=""></audio>|<audio src="samples/Crackle/C2_CMGAN.wav" controls="" preload=""></audio>|<audio src="samples/Crackle/C2_clean.wav" controls="" preload=""></audio> |
 
 
-## Wheezes: 
+#### Wheezes: 
 
 We recommend using headphones for this section.
 
