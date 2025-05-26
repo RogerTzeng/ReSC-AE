@@ -2,7 +2,7 @@ This is the official demo website for "Improving the Robustness and Clinical App
 
 Our paper: https://ai.jmir.org/2025/1/e67239/
 
-### Abstract
+## Abstract
 #### Background: 
 Deep learning techniques have shown promising results in the automatic classification of respiratory sounds. However, accurately distinguishing these sounds in real-world noisy conditions poses challenges for clinical deployment. In addition, predicting signals with only background noise could undermine user trust in the system.
 
@@ -18,7 +18,7 @@ The integration of the audio enhancement module resulted in a 21.88% increase wi
 #### Conclusions: 
 Incorporating an audio enhancement algorithm significantly enhances the robustness and clinical utility of automatic respiratory sound classification systems, improving performance in noisy environments and fostering greater trust among medical professionals.
 
-### Demo
+## Demo
 #### Normal: 
 
 We recommend using headphones for this section.
